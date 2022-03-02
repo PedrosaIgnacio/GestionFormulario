@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Services;
 using System.Web.UI;
 using System.Web.UI.HtmlControls;
 using System.Web.UI.WebControls;
@@ -97,6 +98,7 @@ namespace Formularios
                     input.Attributes["runat"] = "server";
                     input.Attributes["id"] = dt[i].name;
                     input.Attributes["class"] = "form-control";
+                    input.Attributes["name"] = dt[i].name;
 
                     if (dt[i].datatype == "Texto" || dt[i].datatype == "Valor Numérico")
                     {
@@ -188,19 +190,26 @@ namespace Formularios
             }
         }
 
-        protected void guardarDatos_Click(object sender, EventArgs e)
-        {
-            List<DetalleFormulario> lstDet = (List<DetalleFormulario>)ViewState["lstDet"];
+        //protected void guardarDatos_Click(object sender, EventArgs e)
+        //{
+        //    List<DetalleFormulario> lstDet = (List<DetalleFormulario>)ViewState["lstDet"];
 
 
-            for (int i = 0; i < lstDet.Count; i++)
-            {
-                RegistroFormulario rg = new RegistroFormulario();
-                rg.idFormulario = lstDet[i].idForm;
-                rg.idDetalleFormulario = lstDet[i].id;
+        //    for (int i = 0; i < lstDet.Count; i++)
+        //    {
+        //        RegistroFormulario rg = new RegistroFormulario();
+        //        rg.idFormulario = lstDet[i].idForm;
+        //        rg.idDetalleFormulario = lstDet[i].id;
 
-            }
+        //    }
 
+        //}
+        [WebMethod]
+        public static bool Ejemplo(string arr, string arrNames) {
+            string [] dataValues = arr.Split(';');
+            string[] dataNames = arrNames.Split(';');
+
+            return true;
         }
     }
 }

@@ -25,5 +25,9 @@ namespace Logic_Layer
         {
             return Data.DataFormulario.DetallesDeUnFormulario(id);
         }
+        public static List<Formulario> Top5Formularios()
+        {
+            return Data.DataFormulario.Top5Formularios();
+        }
     }
 }

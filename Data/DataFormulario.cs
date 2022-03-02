@@ -182,5 +182,28 @@ namespace Data
                 con.Close();
             }
         }
+        public static List<Formulario> Top5Formularios ()
+        {
+            try
+            {
+                ConexionDB.OpenConnection();
+                SqlCommand cmd = new SqlCommand();
+                cmd.CommandText = "Select top 5 * from Formularios order by Formularios.IdFormulario desc";
+                SqlDataReader dr = ConexionDB.DataReader(cmd);
+                List<Formulario> lstForm = new List<Formulario>();
+                while (dr.Read())
+                {
+                    Formulario form = new Formulario();
+                    form.id = int.Parse(dr["IdFormulario"].ToString());
+                    form.name = dr["Nombre"].ToString();
+                    lstForm.Add(form);
+                }
+                return lstForm;
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+        }
     }
 }

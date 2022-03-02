@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="row">
         <h2 class="offcanvas-title">Cargar Formularios</h2>
-        <hr />
+        <hr class="w-75" style="margin-left: 0.5rem" />
     </div>
 
     <div class="row">
@@ -21,7 +21,7 @@
     <asp:Panel runat="server" ID="contentArea" CssClass="row g-3 my-3"></asp:Panel>
 
     <div>
-        <asp:Button runat="server" CssClass="btn btn-dark" Text="GuardarDatos" ID="guardarDatos" OnClick="guardarDatos_Click" OnClientClick="inputValues()" />
+        <asp:Button runat="server" CssClass="btn btn-dark" Text="GuardarDatos" ID="guardarDatos" OnClientClick="inputValues()" />
     </div>
 
 

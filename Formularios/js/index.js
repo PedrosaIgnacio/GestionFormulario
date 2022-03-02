@@ -5,6 +5,8 @@ function inputValues() {
     const divs = container.getElementsByTagName('div');
     const arrData = [];
     let arr = [];
+    let arrDataNames = [];
+
 
     for (var i = 0; i < divs.length; i++) {
         for (var j = 0; j < divs.item(i).childElementCount; j++) {
@@ -12,11 +14,15 @@ function inputValues() {
                 if (divs.item(i).children.item(j).type == 'radio') {
                     if (divs.item(i).children.item(0).checked) {
                         arr.push(divs.item(i).children.item(j));
+                        arrDataNames.push(divs.item(i).children.item(j).name)
                     }
                 }
                 else {
                     arr.push(divs.item(i).children.item(j));
+                    arrDataNames.push(divs.item(i).children.item(j).name)
+
                 }
+                
             }
         }
     }
@@ -24,13 +30,15 @@ function inputValues() {
         arrData.push(arr[i].value);
     }
     let arrStr = arrData.join(';');
+    let arrNameStr = arrDataNames.join(';');
 
-    console.log(arrData);
+    console.log(arrStr);
+    console.log(arrNameStr);
 
     $.ajax({
         type: "POST",
         url: "CargarFormularios.aspx/Ejemplo",
-        data: JSON.stringify({ arr: arrStr }),
+        data: JSON.stringify({ arr: arrStr, arrNames: arrNameStr }),
         contentType: "application/json; charset=utf-8",
         dataType: "json"
     }).done(function (info) {

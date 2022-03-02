@@ -29,15 +29,15 @@
     </div>
 
     <div>
-        <asp:GridView runat="server" AutoGenerateColumns="false" CssClass="table" ID="GVDetallesForm">
+        <asp:GridView runat="server" AutoGenerateColumns="false" CssClass="table bg-dark text-white" ID="GVDetallesForm">
             <Columns>
                 <asp:BoundField HeaderText="Nro" DataField="id" />
                 <asp:BoundField HeaderText="Nombre del Campo" DataField="name" />
                 <asp:BoundField HeaderText="Tipo de Datos del Campo" DataField="datatype" />
                 <asp:TemplateField>
                     <ItemTemplate>
-                        <asp:Button runat="server" Text="Modificar" CssClass="btn btn-dark"></asp:Button>
-                        <asp:Button runat="server" Text="" CssClass="btn btn-close" />
+                        <asp:Button runat="server" Text="Modificar" CssClass="btn btn-info text-white"></asp:Button>
+                        <asp:Button runat="server" Text="" CssClass="btn btn-close btn-close-white" />
                     </ItemTemplate>
                 </asp:TemplateField>
             </Columns>

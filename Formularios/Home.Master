@@ -41,7 +41,8 @@
                 </button>
             </div>
             <div class="p-4 pt-5">
-                <h1 class="text-center"><a href="Index.aspx" class="logo"><img src="img/logo.png" height="100" width="100"/></a></h1>
+                <h1 class="text-center"><a href="Index.aspx" class="logo">
+                    <img src="img/logo.png" height="100" width="100" /></a></h1>
                 <ul class="list-unstyled components mb-5">
                     <li>
                         <a href="Index.aspx">Inicio</a>
@@ -54,23 +55,18 @@
                     </li>
                 </ul>
 
-
                 <div class="footer">
-                    <p>
-                        Dev: Pedrosa Ignacio Nicolas.
-                    </p>
                     <ul>
-                        <li style="list-style:none">
+                        <li style="list-style: none">
                             <a href="Logout.aspx">Cerrar Sesión</a>
                         </li>
                     </ul>
                 </div>
-
             </div>
         </nav>
 
         <!-- Page Content  -->
-        <div id="content" class="p-4 p-md-5 pt-5" style="background-color:#d1d1d1">
+        <div id="content" class="p-4 p-md-5 pt-5" style="background-color: #d1d1d1">
             <form id="form1" runat="server">
                 <asp:ScriptManager runat="server" ID="scp1">
                 </asp:ScriptManager>

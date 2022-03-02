@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -16,11 +17,18 @@ namespace Formularios
                 Response.Redirect("Login/Login.aspx");
             }
             setUsernameTittle();
+            llenarGVUltimosFormularios();
         }
         public void setUsernameTittle()
         {
             string session = (string)Session["Username"];
             txtUserTittle.InnerText = "Bienvenido " + session;
+        }
+        public void llenarGVUltimosFormularios()
+        {
+            List<Formulario> lstFormularios = Logic_Layer.LogicFormulario.Top5Formularios();
+            GVUltimosFormularios.DataSource = lstFormularios;
+            GVUltimosFormularios.DataBind();
         }
     }
 }

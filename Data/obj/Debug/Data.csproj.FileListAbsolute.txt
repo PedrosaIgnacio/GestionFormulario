@@ -16,3 +16,12 @@ C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSal
 C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.csproj.CopyComplete
 C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.dll
 C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.pdb
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\bin\Debug\Data.dll
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\bin\Debug\Data.pdb
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\bin\Debug\Entities.dll
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\bin\Debug\Entities.pdb
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\obj\Debug\Data.dll
+C:\Users\Nacho\Desktop\features\GestionFormulario\Data\obj\Debug\Data.pdb

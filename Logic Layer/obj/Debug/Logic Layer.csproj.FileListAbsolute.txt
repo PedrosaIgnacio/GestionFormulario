@@ -20,3 +20,14 @@ C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSal
 C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.csproj.CopyComplete
 C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.dll
 C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.pdb
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\bin\Debug\Logic Layer.dll
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\bin\Debug\Logic Layer.pdb
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\bin\Debug\Data.dll
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\bin\Debug\Entities.dll
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\bin\Debug\Data.pdb
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\bin\Debug\Entities.pdb
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\obj\Debug\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\obj\Debug\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\obj\Debug\Logic Layer.csproj.CopyComplete
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\obj\Debug\Logic Layer.dll
+C:\Users\Nacho\Desktop\features\GestionFormulario\Logic Layer\obj\Debug\Logic Layer.pdb
