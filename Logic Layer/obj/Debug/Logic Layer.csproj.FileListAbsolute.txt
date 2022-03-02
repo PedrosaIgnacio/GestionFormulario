@@ -1,0 +1,22 @@
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\bin\Debug\Logic Layer.dll
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\bin\Debug\Logic Layer.pdb
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\bin\Debug\Data.dll
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\bin\Debug\Entities.dll
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\bin\Debug\Data.pdb
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\bin\Debug\Entities.pdb
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\obj\Debug\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\obj\Debug\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\obj\Debug\Logic Layer.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\obj\Debug\Logic Layer.dll
+C:\Users\Nacho\source\repos\Formularios\Logic Layer\obj\Debug\Logic Layer.pdb
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\bin\Debug\Logic Layer.dll
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\bin\Debug\Logic Layer.pdb
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\bin\Debug\Data.dll
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\bin\Debug\Entities.dll
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\bin\Debug\Data.pdb
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\bin\Debug\Entities.pdb
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.csproj.CopyComplete
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.dll
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Logic Layer\obj\Debug\Logic Layer.pdb

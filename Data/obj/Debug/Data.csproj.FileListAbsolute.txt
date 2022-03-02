@@ -1,0 +1,18 @@
+C:\Users\Nacho\source\repos\Formularios\Data\bin\Debug\Data.dll
+C:\Users\Nacho\source\repos\Formularios\Data\bin\Debug\Data.pdb
+C:\Users\Nacho\source\repos\Formularios\Data\bin\Debug\Entities.dll
+C:\Users\Nacho\source\repos\Formularios\Data\bin\Debug\Entities.pdb
+C:\Users\Nacho\source\repos\Formularios\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Nacho\source\repos\Formularios\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\source\repos\Formularios\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Nacho\source\repos\Formularios\Data\obj\Debug\Data.dll
+C:\Users\Nacho\source\repos\Formularios\Data\obj\Debug\Data.pdb
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\bin\Debug\Data.dll
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\bin\Debug\Data.pdb
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\bin\Debug\Entities.dll
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\bin\Debug\Entities.pdb
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.dll
+C:\Users\Ignacio\Documents\Projectos C#\FormularioMinSalud-main\FormularioMinSalud-main\Data\obj\Debug\Data.pdb
